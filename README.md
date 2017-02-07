@@ -1,7 +1,7 @@
 # IPSoftQATest
 This project is an automated testing application which will open up Firefox browser and go to Wikipedia page and select English and will 
 check if its on the English version.
-Serentiy-Jbehave-archetype was used to create the Maven project.
+Serenitiy-Jbehave-archetype was used to create the Maven project.
 I am using a Firefox driver for this application.Since, from Firefox 47 it uses Marionette driver(gecko engine), so I have used Firefox 46.09
 version to work with my firefox driver.
 Here is the link of the browser I have used.One can download this version and use to run the application --
